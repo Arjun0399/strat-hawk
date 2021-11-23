@@ -1,0 +1,20 @@
+.item{
+    border: 3px solid red;
+   
+    height: 100px;
+    width: 250px;
+    display:flexX
+}
+.container{
+    border: 3px solid blue;
+    display:grid;
+    grid-template-columns: 1fx 2fx 1fx;
+    grid-gap: 1rem;
+    padding: 1rem;
+
+    
+}
+
+
+  
+    
